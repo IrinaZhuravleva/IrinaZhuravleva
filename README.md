@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IrinaZhuravleva. I work as a QA Automation engineer writing autotests in TypeScript and running them in Cypress or Puppeteer.
+- 👋 Hi, I’m @IrinaZhuravleva. I am a QA Automation engineer writing autotests in TypeScript and running them in Cypress or Puppeteer.
 - 👀 I’m interested in programming languages, test automation frameworks, and web development in general.
-- 🌱 I’m currently learning Node.js.
+- 🌱 I’m currently learning React.
 - 📫 How to reach me https://www.linkedin.com/in/irina-zhuravleva-90b13a202/
 
 <!---
