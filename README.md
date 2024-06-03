@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming languages, test automation frameworks, and web development in general.
 - 🌱 I’m currently learning React.
 - 📫 How to reach me https://www.linkedin.com/in/irina-zhuravleva-90b13a202/
+- https://www.codewars.com/users/IrinaZhuravleva/badges/micro?theme=light
 
 <!---
 IrinaZhuravleva/IrinaZhuravleva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
