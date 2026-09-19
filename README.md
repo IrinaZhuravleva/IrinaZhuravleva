@@ -21,6 +21,6 @@ Currently focused on growing further as an **automation engineer**, improving te
 
 
 📫 **Connect with me:** https://www.linkedin.com/in/irina-zhuravleva-90b13a202/
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.codewars.com/users/IrinaZhuravleva"><img height="30" src="https://www.codewars.com/users/IrinaZhuravleva/badges/micro?theme=light"></a>
-</p>
+</p> -->
