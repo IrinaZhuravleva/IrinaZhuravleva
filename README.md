@@ -19,9 +19,8 @@ I've worked on **laboratory, medical-device, enterprise integration, and AI-powe
 
 Currently focused on growing further as an **automation engineer**, improving test architecture, and exploring modern approaches to software quality.
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/irina-zhuravleva23576925/)
 
-- 📫 How to reach me https://www.linkedin.com/in/irina-zhuravleva-90b13a202/
+📫 **Connect with me:** https://www.linkedin.com/in/irina-zhuravleva-90b13a202/
 <p align="center">
 <a href="https://www.codewars.com/users/IrinaZhuravleva"><img height="30" src="https://www.codewars.com/users/IrinaZhuravleva/badges/micro?theme=light"></a>
 </p>
